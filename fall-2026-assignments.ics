@@ -1,0 +1,670 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Command Center//Fall 2026 Assignments//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fall 2026 Assignments
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ee2cb32d623606570473@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Quiz 1
+DTSTART;TZID=America/New_York:20260819T101000
+DTEND;TZID=America/New_York:20260819T110000
+DESCRIPTION:Type: Quiz\\nPriority: High\\nStatus: Not Started\\nEstimated
+  work: 2 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Quiz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2372e50a94ce08abbcd2@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 18
+DTSTART;TZID=America/New_York:20260823T235900
+DTEND;TZID=America/New_York:20260824T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c6fcdb77f37ebb5e40@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 18
+DTSTART;TZID=America/New_York:20260827T235900
+DTEND;TZID=America/New_York:20260828T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:424fb0134bfd27c7086f@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 19
+DTSTART;TZID=America/New_York:20260830T235900
+DTEND;TZID=America/New_York:20260831T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c53567d6fe1d8453f5a9@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Assignment 1 in-class activity
+DTSTART;TZID=America/New_York:20260902T122000
+DTEND;TZID=America/New_York:20260902T131000
+DESCRIPTION:Type: In-class Assignment\\nPriority: Medium\\nStatus: Not St
+ arted\\nEstimated work: 1 hours\\nDate confidence: Confirmed\\nSource: IE
+  2100 daily schedule
+CATEGORIES:IE 2100,In-class Assignment
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a98cadadb1fced3fda73@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 19
+DTSTART;TZID=America/New_York:20260903T235900
+DTEND;TZID=America/New_York:20260904T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:72a2ad23bd36bea236ba@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 20
+DTSTART;TZID=America/New_York:20260907T235900
+DTEND;TZID=America/New_York:20260908T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9e079e95c476bb23ab@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 20
+DTSTART;TZID=America/New_York:20260910T235900
+DTEND;TZID=America/New_York:20260911T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d39f1feaaa4462eef3eb@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 21
+DTSTART;TZID=America/New_York:20260913T235900
+DTEND;TZID=America/New_York:20260914T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5bab6b5348cd9da53a56@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Lab 1 Report
+DTSTART;TZID=America/New_York:20260914T122000
+DTEND;TZID=America/New_York:20260914T125000
+DESCRIPTION:Type: Lab Report\\nPriority: Critical\\nStatus: Not Started\\
+ nEstimated work: 5 hours\\nDate confidence: Confirmed\\nSource: IE 2100 d
+ aily schedule
+CATEGORIES:IE 2100,Lab Report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:98eb9fd9c1d47f883f83@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 21
+DTSTART;TZID=America/New_York:20260915T235900
+DTEND;TZID=America/New_York:20260916T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1f399a8f4d2da1456629@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Assignment 2 in-class activity
+DTSTART;TZID=America/New_York:20260916T122000
+DTEND;TZID=America/New_York:20260916T131000
+DESCRIPTION:Type: In-class Assignment\\nPriority: Medium\\nStatus: Not St
+ arted\\nEstimated work: 1 hours\\nDate confidence: Confirmed\\nSource: IE
+  2100 daily schedule
+CATEGORIES:IE 2100,In-class Assignment
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d9999a5919bcde10c2@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Exam 1 (Ch. 18-21)
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T193000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 8 hours\\nDate confidence: Confirmed\\nSource: Syllabus examin
+ ations
+CATEGORIES:PHYS 2210,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47190bfbdb09c93319eb@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Quiz 2
+DTSTART;TZID=America/New_York:20260918T101000
+DTEND;TZID=America/New_York:20260918T110000
+DESCRIPTION:Type: Quiz\\nPriority: High\\nStatus: Not Started\\nEstimated
+  work: 2 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Quiz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c51a27bb7bd6b1192dc@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 22
+DTSTART;TZID=America/New_York:20260920T235900
+DTEND;TZID=America/New_York:20260921T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:711d96ef0ac2f491a751@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 22
+DTSTART;TZID=America/New_York:20260924T235900
+DTEND;TZID=America/New_York:20260925T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9bb1d1707b05c60edb@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 3600 - Midterm 1
+DTSTART;TZID=America/New_York:20260924T140000
+DTEND;TZID=America/New_York:20260924T143000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 7 hours\\nDate confidence: Tentative\\nSource: Syllabus exams\
+ ; changes announced in class
+CATEGORIES:IE 3600,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4bede272aba4e10d12a3@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 23
+DTSTART;TZID=America/New_York:20260927T235900
+DTEND;TZID=America/New_York:20260928T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4913228b94a439d838c9@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Lab 2 Report
+DTSTART;TZID=America/New_York:20260928T122000
+DTEND;TZID=America/New_York:20260928T125000
+DESCRIPTION:Type: Lab Report\\nPriority: Critical\\nStatus: Not Started\\
+ nEstimated work: 5 hours\\nDate confidence: Confirmed\\nSource: IE 2100 d
+ aily schedule
+CATEGORIES:IE 2100,Lab Report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ebca1581582d8da8c0@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Exam 1
+DTSTART;TZID=America/New_York:20260930T122000
+DTEND;TZID=America/New_York:20260930T125000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 7 hours\\nDate confidence: Confirmed\\nSource: IE 2100 dates t
+ o remember
+CATEGORIES:IE 2100,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ad47b7dcf55cd3db25@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 23
+DTSTART;TZID=America/New_York:20261001T235900
+DTEND;TZID=America/New_York:20261002T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40b8f422bb84e9d1edf9@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Quiz 3
+DTSTART;TZID=America/New_York:20261002T101000
+DTEND;TZID=America/New_York:20261002T110000
+DESCRIPTION:Type: Quiz\\nPriority: High\\nStatus: Not Started\\nEstimated
+  work: 2 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Quiz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c42652642e49d8fff95@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 24
+DTSTART;TZID=America/New_York:20261004T235900
+DTEND;TZID=America/New_York:20261005T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a87d5989fb5c1618e8@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 24
+DTSTART;TZID=America/New_York:20261008T235900
+DTEND;TZID=America/New_York:20261009T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0112d6cfa60c248008cb@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Exam 1 - Part 1
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 5 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04b3031e598f5ade6a88@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Exam 1 - Part 2
+DTSTART;TZID=America/New_York:20261009T101000
+DTEND;TZID=America/New_York:20261009T110000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 4 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76224892b2fdf908e46f@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 25
+DTSTART;TZID=America/New_York:20261013T235900
+DTEND;TZID=America/New_York:20261014T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e\; fall-break exception
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfaeb2dcc5a68f4521a@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 25
+DTSTART;TZID=America/New_York:20261015T235900
+DTEND;TZID=America/New_York:20261016T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26fb7f688cce373d57d2@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 26
+DTSTART;TZID=America/New_York:20261018T235900
+DTEND;TZID=America/New_York:20261019T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:df39da0fa8a1dad1a1ba@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Assignment 3
+DTSTART;TZID=America/New_York:20261019T122000
+DTEND;TZID=America/New_York:20261019T125000
+DESCRIPTION:Type: Assignment\\nPriority: High\\nStatus: Not Started\\nEst
+ imated work: 4 hours\\nDate confidence: Confirmed\\nSource: IE 2100 daily
+  schedule
+CATEGORIES:IE 2100,Assignment
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e0822e59a39f91321a@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 26
+DTSTART;TZID=America/New_York:20261020T235900
+DTEND;TZID=America/New_York:20261021T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8aa4c0657b94ed9552@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Exam 2
+DTSTART;TZID=America/New_York:20261021T122000
+DTEND;TZID=America/New_York:20261021T125000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 7 hours\\nDate confidence: Confirmed\\nSource: IE 2100 dates t
+ o remember
+CATEGORIES:IE 2100,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f64d9958b4018ffb3b@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Exam 2 (Ch. 22-26)
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T193000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 8 hours\\nDate confidence: Confirmed\\nSource: Syllabus examin
+ ations
+CATEGORIES:PHYS 2210,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:14d3f3bc4fba23f6d3d5@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 27
+DTSTART;TZID=America/New_York:20261025T235900
+DTEND;TZID=America/New_York:20261026T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92653b2eb0d026cf1a24@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 27
+DTSTART;TZID=America/New_York:20261029T235900
+DTEND;TZID=America/New_York:20261030T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5599b0871cfe5b383adb@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 28
+DTSTART;TZID=America/New_York:20261101T235900
+DTEND;TZID=America/New_York:20261102T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b858ce9b261ed827aecf@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 3600 - Midterm 2
+DTSTART;TZID=America/New_York:20261105T140000
+DTEND;TZID=America/New_York:20261105T143000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 7 hours\\nDate confidence: Tentative\\nSource: Syllabus exams\
+ ; changes announced in class
+CATEGORIES:IE 3600,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc6d9f617303efa8b44@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 28
+DTSTART;TZID=America/New_York:20261105T235900
+DTEND;TZID=America/New_York:20261106T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:21fecca0d391e65302c4@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Project 1
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DESCRIPTION:Type: Project\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 8 hours\\nDate confidence: Likely - verify\\nSource: Course sch
+ edule shows P1 on Thursday
+CATEGORIES:CPSC 1050,Project
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1cba2dc11847ee448d@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Quiz 4
+DTSTART;TZID=America/New_York:20261106T101000
+DTEND;TZID=America/New_York:20261106T110000
+DESCRIPTION:Type: Quiz\\nPriority: High\\nStatus: Not Started\\nEstimated
+  work: 2 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Quiz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe4687b44ffa4a5f52a@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 29
+DTSTART;TZID=America/New_York:20261108T235900
+DTEND;TZID=America/New_York:20261109T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68c3a93a97679646e12f@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Lab 3 Report
+DTSTART;TZID=America/New_York:20261109T122000
+DTEND;TZID=America/New_York:20261109T125000
+DESCRIPTION:Type: Lab Report\\nPriority: Critical\\nStatus: Not Started\\
+ nEstimated work: 5 hours\\nDate confidence: Confirmed\\nSource: IE 2100 d
+ aily schedule
+CATEGORIES:IE 2100,Lab Report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0432de6165c07a7cb810@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 29
+DTSTART;TZID=America/New_York:20261112T235900
+DTEND;TZID=America/New_York:20261113T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9ded174191d5ad9ec5ea@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Exam 2 - Part 1
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 5 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a05c79ff3cacf8b3e32a@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Exam 2 - Part 2
+DTSTART;TZID=America/New_York:20261113T101000
+DTEND;TZID=America/New_York:20261113T110000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 4 hours\\nDate confidence: Confirmed\\nSource: Course schedule
+CATEGORIES:CPSC 1050,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12f7d301835544bab126@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 30
+DTSTART;TZID=America/New_York:20261115T235900
+DTEND;TZID=America/New_York:20261116T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d53a643221933729a3e@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Lab 4 Report
+DTSTART;TZID=America/New_York:20261116T122000
+DTEND;TZID=America/New_York:20261116T125000
+DESCRIPTION:Type: Lab Report\\nPriority: Critical\\nStatus: Not Started\\
+ nEstimated work: 5 hours\\nDate confidence: Confirmed\\nSource: IE 2100 d
+ aily schedule
+CATEGORIES:IE 2100,Lab Report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:343e9c281bad2429449d@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 30
+DTSTART;TZID=America/New_York:20261117T235900
+DTEND;TZID=America/New_York:20261118T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9a668634b1e36c0eaa9b@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Exam 3 (Ch. 27-30)
+DTSTART;TZID=America/New_York:20261119T203000
+DTEND;TZID=America/New_York:20261119T210000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 8 hours\\nDate confidence: Confirmed\\nSource: Syllabus examin
+ ations
+CATEGORIES:PHYS 2210,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aafcce478b307cdff76e@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Reading Assignment 31
+DTSTART;TZID=America/New_York:20261122T235900
+DTEND;TZID=America/New_York:20261123T002900
+DESCRIPTION:Type: Reading\\nPriority: High\\nStatus: Not Started\\nEstima
+ ted work: 2 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedul
+ e
+CATEGORIES:PHYS 2210,Reading
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ead02044ddb9a217619d@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Lab 5 Report
+DTSTART;TZID=America/New_York:20261130T122000
+DTEND;TZID=America/New_York:20261130T125000
+DESCRIPTION:Type: Lab Report\\nPriority: Critical\\nStatus: Not Started\\
+ nEstimated work: 5 hours\\nDate confidence: Confirmed\\nSource: IE 2100 d
+ aily schedule
+CATEGORIES:IE 2100,Lab Report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2231578326eb1d663365@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Homework 31
+DTSTART;TZID=America/New_York:20261204T235900
+DTEND;TZID=America/New_York:20261205T002900
+DESCRIPTION:Type: Homework\\nPriority: High\\nStatus: Not Started\\nEstim
+ ated work: 3 hours\\nDate confidence: Confirmed\\nSource: Syllabus schedu
+ le
+CATEGORIES:PHYS 2210,Homework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6af7e82c41c8591eafc7@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 2100 - Exam 3
+DTSTART;TZID=America/New_York:20261207T080000
+DTEND;TZID=America/New_York:20261207T093000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 8 hours\\nDate confidence: Confirmed\\nSource: IE 2100 syllabu
+ s
+CATEGORIES:IE 2100,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ac9bb7c3f865bd9144@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:CPSC 1050 - Final Exam (Section 001)
+DTSTART;TZID=America/New_York:20261208T150000
+DTEND;TZID=America/New_York:20261208T173000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 8 hours\\nDate confidence: Confirmed\\nSource: Final Exam Info
+CATEGORIES:CPSC 1050,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4724a1e8676a6e8370e0@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:PHYS 2210 - Cumulative Final Exam
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T213000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 10 hours\\nDate confidence: Confirmed\\nSource: Syllabus exami
+ nations
+CATEGORIES:PHYS 2210,Exam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b3620f194b52d86618@student-command-center
+DTSTAMP:20260824T160000Z
+SUMMARY:IE 3600 - Final Exam
+DTSTART;TZID=America/New_York:20261210T080000
+DTEND;TZID=America/New_York:20261210T103000
+DESCRIPTION:Type: Exam\\nPriority: Critical\\nStatus: Not Started\\nEstim
+ ated work: 9 hours\\nDate confidence: Confirmed\\nSource: Syllabus exams
+CATEGORIES:IE 3600,Exam
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
